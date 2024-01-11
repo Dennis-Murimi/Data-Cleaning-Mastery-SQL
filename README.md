@@ -11,16 +11,15 @@ Is your data unbiased?
 Removed all sources of noise from your data?
 Identified and remove sources of data leakage?
 Are there any obvious outliers?
-To clean data this wise, I used SQL language (Structured Query Language). This language is used to communicate databases.
-In this project, I added command lines to my code to make everyone understand.
+I used SQL language (Structured Query Language).
 
 These are commands that I added to my queries.
-CLEANING DATA IN SQL QUERIES
-STANDARDIZE DATE FORMAT
-POPULATE PROPERTY ADDRESS DATA
-BREAKING OUT ADDRESSES INTO INDIVIDUAL COLUMNS (ADDRESS, CITY, STATE)
-CHANGE Y AND N TO YES AND NO IN THE "SOLD AS VACANT" FIELD
-REMOVE DUPLICATES
-ORDER BY PropertyAddress
-DELETE UNUSED COLUMNS
-My Quires:
+CLEANING DATA IN SQL QUERIES.
+STANDARDIZE DATE FORMAT.
+POPULATE PROPERTY ADDRESS DATA.
+BREAKING OUT ADDRESSES INTO INDIVIDUAL COLUMNS (ADDRESS, CITY, STATE).
+CHANGE Y AND N TO YES AND NO IN THE "SOLD AS VACANT" FIELD.
+REMOVE DUPLICATES.
+ORDER BY PropertyAddress.
+DELETE UNUSED COLUMNS.
+
